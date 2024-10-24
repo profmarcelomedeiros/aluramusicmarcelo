@@ -9,14 +9,12 @@ section {
     padding-top: 80px;
     display: flex;
     justify-content: center;
-
 }
 header {  
     background-color: hsl(234, 86%, 22%);
 color:white;
-
 }
-.categoria textos {
+.categoria-textos {
     margin-right: 20px ;
 }
 img {
