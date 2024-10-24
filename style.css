@@ -3,7 +3,6 @@ background-color: hsl(234, 86%, 22%);
 color:white;
 }
 section {
-
     background: rgb(120, 6, 241);
     padding-bottom: 80px;
     padding-top: 80px;
@@ -15,13 +14,14 @@ header {
 color:white;
 }
 .categoria-textos {
-    margin-right: 20px ;
+    margin-right: 20px;
 }
 img {
 height: 200px;
 }
 .categoria-vídeos{
 display: flex;
-overflow-x: auto;
-gap: 10px;
+overflow-x:auto;
+gap:10px;
+
 }
