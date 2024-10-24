@@ -1,6 +1,6 @@
 body { 
 background-color: hsl(234, 86%, 22%);
-color: rgba(71, 9, 243, 0);
+color: red;
 
 }
 section {
@@ -12,7 +12,9 @@ section {
     justify-content: center;
 
 }
-header
+header {  
+
+}
 .categoria textos {
     margin-right: 20px ;
 }
@@ -21,4 +23,6 @@ height: 200px;
 }
 .categoria-vídeos{
 display: flex;
+overflow-x: auto;
+gap: 10px;
 }
