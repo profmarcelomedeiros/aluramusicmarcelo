@@ -13,9 +13,12 @@ section {
 
 }
 header
-.chamada-texto {
+.categoria textos {
     margin-right: 20px ;
 }
 img {
 height: 200px;
+}
+. categoria vídeos {
+display: flex;
 }
