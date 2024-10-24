@@ -10,7 +10,7 @@ section {
     justify-content: center;
 }
 header {  
-    border: solid white 1px
+    border-bottom;: solid white 1px
 }
 .categoria-textos {
     margin-right: 20px;
