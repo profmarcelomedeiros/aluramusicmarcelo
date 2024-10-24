@@ -1,6 +1,6 @@
 body { 
 background-color: hsl(234, 86%, 22%);
-color: rgb(71, 9, 243);
+color: rgba(71, 9, 243, 0);
 
 }
 section {
@@ -12,6 +12,7 @@ section {
     justify-content: center;
 
 }
+header
 .chamada-texto {
     margin-right: 20px ;
 }
