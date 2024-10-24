@@ -1,19 +1,27 @@
-body {
-    background-color: black;
+body { 
+background-color: hsl(234, 86%, 22%);
 color:white;
 }
-
 section {
-     background: rgb( 184, 156, 213);
-     padding-bottom: 80px;
-     padding-top: 80px;
-     display: flex;
-     justify-content: center;
+    background: rgb(120, 6, 241);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
-
-div{
+header {  
+    background-color: hsl(234, 86%, 22%);
+color:white;
+}
+.categoria-textos {
     margin-right: 20px;
 }
-.chamada-texto {
-    margin-right: 5%;
+img {
+height: 200px;
+}
+.categoria-vídeos{
+display: flex;
+overflow-x:auto;
+gap:10px;
+
 }
